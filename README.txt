@@ -5,8 +5,8 @@ Note:
      + Setting in MAC OS may be different a little bit
 
 Step 1:  Download 
-         + Download the Anaconda package at the link: 'https://www.anaconda.com/products/individual#linux'
-         + Assume that the Anaconda package of 'Anaconda3-2021.11-Linux-x86_64.sh' (for Ubuntu) or 'Anaconda3-2021.11-MacOSX-x86_64.sh' (for MAC) will be downloaded and stored at the directory of '/home/<user>/Download' (e.g. '/home/phaml/Download')
+         + Download the Anaconda package at the link: 'https://www.anaconda.com/products/individual#linux'. Choose the package option from '64-Bit (x86) Installer (581 MB)'
+         + Assume that the Anaconda package of 'Anaconda3-2021.11-Linux-x86_64.sh' (for Ubuntu) or 'Anaconda3-2021.11-MacOSX-x86_64.sh' (for MAC) will be downloaded and stored at the directory of '/home/<user>/Download' (e.g. '/home/phaml/Download'). Note that there is an option with MAC OS to use GUI for installing (the downloaded file will be <file>.pkg). 
 
 
 Step 2: Install (If using MAC, the name of conda package is different)
