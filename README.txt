@@ -6,10 +6,10 @@ Note:
 
 Step 1:  Download 
          + Download the Anaconda package at the link: 'https://www.anaconda.com/products/individual#linux'
-         + Assume that the Anaconda package of 'Anaconda3-2021.11-Linux-x86_64.sh' will be downloaded and stored at the directory of '/home/<user>/Download' (e.g. '/home/phaml/Download')
+         + Assume that the Anaconda package of 'Anaconda3-2021.11-Linux-x86_64.sh' (for Ubuntu) or 'Anaconda3-2021.11-MacOSX-x86_64.sh' (for MAC) will be downloaded and stored at the directory of '/home/<user>/Download' (e.g. '/home/phaml/Download')
 
 
-Step 2: Install 
+Step 2: Install (If using MAC, the name of conda package is different)
          + Open a terminal (at desktop or anywhere), and go in to the directory '/home/phaml/Download' by the command line:  "cd /home/phaml/Download"
          + Change the mode of the Anaconda package by the command line:  "chmod +x Anaconda3-2021.11-Linux-x86_64.sh"
          + Install the Anaconda package by the command line:  "./Anaconda3-2021.11-Linux-x86_64.sh"
